@@ -1,7 +1,11 @@
 {
     "packageDirectories": [
         {
-            "path": "mdapi",
+            "path": "dreamhouse-app",
+            "package": "TestPool",
+            "versionName": "Test v1.0",
+            "versionNumber": "0.1.0.NEXT",
+            "versionDescription": "Test.",
             "default": true
         }
     ],
